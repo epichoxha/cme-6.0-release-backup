@@ -1,4 +1,4 @@
-# A backup of latest crackmapexe releases(6.0). Mad props to mpgn for this tool, it was good while it lasted :)
+# A backup of latest CrackMapExec release 6.0. Mad props to mpgn for this tool, it was good while it lasted :)
 
 ```sh
  ./cme
